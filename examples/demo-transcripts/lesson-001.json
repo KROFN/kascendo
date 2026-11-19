@@ -1,0 +1,46 @@
+{
+  "schema_version": 2,
+  "status": "complete",
+  "source": {
+    "source_id": "public-demo-001",
+    "provider": "synthetic",
+    "subject": "math",
+    "course_year": "demo",
+    "sequence": 1,
+    "title": "Synthetic arithmetic",
+    "duration_seconds": 24,
+    "source_urls": [
+      "https://example.org/lesson/1"
+    ]
+  },
+  "asr": {
+    "engine": "synthetic",
+    "language": "ru"
+  },
+  "segments": [
+    {
+      "id": 1,
+      "start": 0,
+      "end": 6,
+      "text": "Узнаем что такое остаток при делении."
+    },
+    {
+      "id": 2,
+      "start": 6,
+      "end": 12,
+      "text": "Семь разделить на три, получится два и остаток один."
+    },
+    {
+      "id": 3,
+      "start": 12,
+      "end": 18,
+      "text": "Сверяем ответ умножением и сложением."
+    },
+    {
+      "id": 4,
+      "start": 18,
+      "end": 24,
+      "text": "В этом примере ответ равен одному."
+    }
+  ]
+}

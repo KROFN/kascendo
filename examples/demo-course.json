@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "course_id": "public-demo-math",
+  "title": "Synthetic arithmetic transcript",
+  "provider": "synthetic",
+  "subject": "math",
+  "course_year": "demo",
+  "content_kind": "canonical_asr_v2",
+  "source_root": "demo-transcripts",
+  "expected_documents": 1,
+  "source_uri": "https://example.org/lesson/1",
+  "missing_sequences": [],
+  "index_exclude_sequences": []
+}

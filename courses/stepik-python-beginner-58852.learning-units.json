@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "course_id": "stepik-python-beginner-58852",
+  "title": "Synthetic Stepik test fixture",
+  "provider": "Stepik demo fixture",
+  "subject": "python",
+  "course_year": "demo",
+  "content_kind": "learning_units_v1",
+  "source_file": "../data/courses/stepik-python-beginner-58852/python-learning-units-v0.json",
+  "source_uri": "https://stepik.org/course/58852",
+  "provider_course_id": 58852,
+  "expected_units": 2,
+  "metadata": {
+    "fixture": true,
+    "synthetic": true
+  }
+}

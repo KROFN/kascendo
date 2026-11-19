@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "course_id": 58852,
+  "skill_id": "demo",
+  "units": [
+    {
+      "id": "PY-B01",
+      "version": 1,
+      "parent_skill_id": "demo",
+      "title": "Введение python",
+      "mode": "theory",
+      "order": 1,
+      "locator": {
+        "provider": "stepik",
+        "course_id": 58852,
+        "lesson_id": 284315,
+        "step_start": 1,
+        "step_end": 1,
+        "url": "https://stepik.org/lesson/284315/step/1"
+      },
+      "instruction": [
+        "Open public lesson"
+      ],
+      "completion_criterion": {
+        "kind": "lesson_complete",
+        "criteria": [
+          "demo"
+        ]
+      },
+      "evidence_mode": "content_progress_only",
+      "prerequisite_unit_ids": [],
+      "active": true
+    },
+    {
+      "id": "PY-B15",
+      "version": 1,
+      "parent_skill_id": "demo",
+      "title": "Цикл for",
+      "mode": "theory",
+      "order": 2,
+      "locator": {
+        "provider": "stepik",
+        "course_id": 58852,
+        "lesson_id": 265118,
+        "step_start": 1,
+        "step_end": 1,
+        "url": "https://stepik.org/lesson/265118/step/1"
+      },
+      "instruction": [
+        "Open public lesson"
+      ],
+      "completion_criterion": {
+        "kind": "lesson_complete",
+        "criteria": [
+          "demo"
+        ]
+      },
+      "evidence_mode": "content_progress_only",
+      "prerequisite_unit_ids": [],
+      "active": true
+    }
+  ]
+}
